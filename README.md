@@ -1,6 +1,6 @@
 # Instagram Clone
 
-A responsive clone of Instagream using HTML & CSS only for computer screen and mobile screen.
+A responsive clone of Instagram using HTML & CSS only for computer screen and mobile screen.
 
 https://ab-instagram-clone.netlify.app/
 
